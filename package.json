@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-typescript",
+  "version": "1.0.0",
+  "description": "gatsby-v2-with-typescript",
+  "dependencies": {
+    "@types/react": "^16.4.2",
+    "@types/react-dom": "^16.0.6",
+    "gatsby": "^2.0.0-beta.12",
+    "gatsby-plugin-typescript": "^2.0.0-beta.4",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Antonio Diaz <jose@tekkni.co>",
+  "license": "MIT"
+}
