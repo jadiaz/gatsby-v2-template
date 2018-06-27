@@ -19,6 +19,10 @@
     "develop": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jose Antonio Diaz <jose@tekkni.co>",
-  "license": "MIT"
+  "author": "Jose Antonio Diaz <jose.a.diaz@aguaseca.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jadiaz/gatsby-v2-template.git"
+  }
 }
