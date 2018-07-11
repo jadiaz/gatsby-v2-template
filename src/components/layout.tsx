@@ -19,6 +19,8 @@ const Layout: React.SFC<LayoutProps> = ({ children }) => {
                         <meta property="og:type" content="website" />
                         <meta property="og:site_name" content={data.site.siteMetadata.name} />
                         <meta name="description" content={data.site.siteMetadata.description} />
+                        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto: 300,400,500" />
+                        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
                     </Helmet>
                 )}
             />
