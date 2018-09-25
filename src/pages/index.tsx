@@ -1,10 +1,9 @@
 import React from 'react';
 import Layout from '../components/layout';
-import Typography from '@material-ui/core/Typography';
-import Button from '@material-ui/core/Button';
+import Header from '../components/header';
 
 export default () => (
     <Layout>
-        <Typography variant="headline">Hello World!</Typography>
+        <Header></Header>
     </Layout>
 )
